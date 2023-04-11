@@ -1,7 +1,12 @@
 \# IST-IAEDcalculator
 
 IAED Calculator
+- Created by Nuno Florência(ist1105865)
 
+CONTACTS
+
+- mail: nuno.v.florencia@gmail.com
+- IG: nuno.florencia
 
 
 Installlation  GUI:
