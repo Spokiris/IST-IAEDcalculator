@@ -1,7 +1,7 @@
 \# IST-IAEDcalculator
 
 IAED Calculator
-- Created by Nuno Florência(ist1105865)
+- Created by Nuno Florência(ist1105865) || IST-LETI 2022/23
 
 CONTACTS
 
@@ -48,7 +48,7 @@ PROGRAM GUI:
 -'e' -- stands for calculate the exam grade that you must have to reach a grade traget(seted by you).
 
 
-
+TUGA GUI:
 - nao pescas nada de ingles -> https://translate.google.pt/?hl=pt-PT&sl=en&tl=pt&op=translate
 
 
