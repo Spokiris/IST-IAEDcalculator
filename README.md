@@ -9,9 +9,11 @@ CONTACTS
 - IG: nuno.florencia
 
 
-Installlation  GUI:
+
+INSTALATION  GUI:
 
 NOTE !!! -> PYTHON and GIT should be already installed in your machine.
+
 
 windows:
 
@@ -26,7 +28,6 @@ you can also use the command "dir" to confirm if you are in the folder.
 - enjoy :).
 
 
-
 linux:
 
 - open TERMINAL
@@ -35,7 +36,6 @@ linux:
 - type "cd iaedcalc".
 - type "python3 iaedcalc.py".
 - enjoy :).
-
 
 
 
