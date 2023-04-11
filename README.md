@@ -36,8 +36,7 @@ PROGRAM GUI:
 
 -This is a simple python calculator.
 -'c' -- stands for calculate your grade based in your inputs.
-
---'e' -- stands for calculate the exam grade that you must have to reach a grade traget(seted by you).
+-'e' -- stands for calculate the exam grade that you must have to reach a grade traget(seted by you).
 
 
 
