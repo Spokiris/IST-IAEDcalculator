@@ -12,7 +12,7 @@ windows:
 
 - open CMD
 - type "git clone https://github.com/Spokiris/iaedcalc.git".
-- find iaedcalc (file must be in {C:\Users\(username)\})
+- find iaedcalc (file must be in {C: \Users \(username) \ })
 
 you can also use the command "dir" to confirm if you are in the folder.
 
