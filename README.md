@@ -49,6 +49,12 @@ PROGRAM GUI:
 
 
 
+- nao pescas nada de ingles -> https://translate.google.pt/?hl=pt-PT&sl=en&tl=pt&op=translate
+
+
+
+
+
 
 
 
